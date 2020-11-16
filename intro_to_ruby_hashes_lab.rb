@@ -12,6 +12,7 @@ def monopoly_with_second_tier
   # complexity.
 transport = {:railroads => {}}
 transport[:railroads][:pieces] = "4"
+
 end
 
 def monopoly_with_third_tier
